@@ -1,3 +1,3 @@
 My first readme
 
-Alx is great.
+Alx is Awesome.
